@@ -2,29 +2,33 @@ header.Cabecera{
     background-color: blanchedalmond;
     text-align: center;
 }
+
 nav.Nav{
     background-color: greenyellow;
     text-align: center;
 }
+
 section.Seccion{
     background-color: orange;
 }
+
 div.Direccion{
     display: inline-block;
-    
-
 }
+
 div.Video{
     display: inline-block;    
-    
 }
+
 footer.eventos{
     background-color: orange;
 }
+
 footer.Pie{
     background-color: blue;
     text-align: center;
 }
+
 span.mensaje{
     background-color: yellow;
 }
